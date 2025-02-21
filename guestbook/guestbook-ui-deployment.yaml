@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: guestbook-ui
+  name: guestbook-ui-pc
   namespace: cafe
 spec:
   replicas: 3
