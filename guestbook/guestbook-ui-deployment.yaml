@@ -15,7 +15,7 @@ spec:
         app: guestbook-ui
     spec:
       containers:
-      - image: pradeepch82/tea:1.2
+      - image: pradeepch82/tea:1.3
         name: guestbook-ui
         ports:
         - containerPort: 80
